@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Faculty Profile</h1>
+
+<img src="a.jpg" width="100">
+
+<p>Name: Amit Sir</p>
+
+<ul>
+<li>MCA</li>
+<li>5 Years Experience</li>
+</ul>
+
+</body>
+</html>
+
+<ul> → list
+<img> → image

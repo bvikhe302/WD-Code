@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form>
+
+<input placeholder="Name"><br><br>
+
+<input type="email" placeholder="Email"><br><br>
+
+Male<input type="radio" name="g">
+
+<select>
+<option>CSE</option>
+</select><br><br>
+
+Music<input type="checkbox"><br><br>
+
+<input type="submit">
+
+</form>
+
+</body>
+</html>
+
+radio → one option
+checkbox → many options

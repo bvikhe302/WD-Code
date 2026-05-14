@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<script>
+function check()
+{
+if(n.value=="")
+alert("Enter Name");
+
+else if(e.value.indexOf("@")==-1)
+alert("Invalid Email");
+
+else if(c.value.length<5)
+alert("Comment too short");
+
+else
+alert("Success");
+}
+</script>
+
+<body>
+
+<input id="n" placeholder="Name"><br><br>
+
+<input id="e" placeholder="Email"><br><br>
+
+<textarea id="c"></textarea><br><br>
+
+<button onclick="check()">Send</button>
+
+</body>
+</html>
+
+indexOf() → search text
+length → count characters

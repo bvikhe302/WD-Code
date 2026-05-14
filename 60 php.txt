@@ -1,0 +1,16 @@
+<?php
+
+$a=array("Java"=>"James","PHP"=>"Rasmus");
+
+echo "<table border=1>";
+
+foreach($a as $x=>$y)
+echo "<tr><td>$x</td><td>$y</td></tr>";
+
+echo "</table>";
+
+?>
+
+associative array → key-value
+foreach → loop
+table → display data

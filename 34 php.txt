@@ -1,0 +1,17 @@
+<form method="post">
+
+<input name="n">
+<input type="submit">
+
+</form>
+
+<?php
+
+echo "<table border=1>";
+echo "<tr><td>".$_POST['n']."</td></tr>";
+echo "</table>";
+
+?>
+
+POST → send data
+<table> → display table

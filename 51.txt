@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form>
+
+<input placeholder="Name"><br><br>
+
+<input type="email" placeholder="Email"><br><br>
+
+<input placeholder="Mobile"><br><br>
+
+<input placeholder="Qualification"><br><br>
+
+<input placeholder="Experience"><br><br>
+
+<input type="submit">
+
+</form>
+
+</body>
+</html>
+
+form → user input
+submit → submit form

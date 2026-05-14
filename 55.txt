@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<script>
+function change()
+{
+t.style.color="blue";
+i.width=200;
+document.body.style.background="pink";
+}
+</script>
+
+<body>
+
+<h2 id="t">Hello</h2>
+
+<img src="a.jpg" id="i" width="100"><br>
+
+<button onclick="change()">Change</button>
+
+</body>
+</html>
+
+style.color → text color
+background → background color

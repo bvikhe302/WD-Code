@@ -1,0 +1,17 @@
+<?php
+
+$a=array("Amit"=>80,"Raj"=>70);
+
+$t=0;
+
+foreach($a as $x)
+$t=$t+$x;
+
+echo "Total=".$t."<br>";
+
+echo "Average=".$t/count($a);
+
+?>
+
+associative array → key-value
+count() → total itemss

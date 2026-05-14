@@ -1,0 +1,12 @@
+<?php
+
+echo "Welcome<br>";
+
+echo date("d/m/y h:i:s")."<br>";
+
+echo $_SERVER['HTTP_USER_AGENT'];
+
+?>
+
+date() → current date/time
+$_SERVER → server info

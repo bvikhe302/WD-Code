@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<script>
+function cal(x)
+{
+a=+n1.value;
+b=+n2.value;
+
+switch(x)
+{
+case '+':r.innerHTML=a+b;break;
+case '-':r.innerHTML=a-b;break;
+case '*':r.innerHTML=a*b;break;
+case '/':r.innerHTML=a/b;break;
+}
+}
+</script>
+
+<body>
+
+<input id="n1">
+<input id="n2">
+
+<button onclick="cal('+')">+</button>
+
+<h3 id="r"></h3>
+
+</body>
+</html>
+
+switch → multiple conditions
+case → option
+break → stop case

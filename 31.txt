@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<script>
+function change()
+{
+i.src="b.jpg";
+t.innerHTML="New Image";
+}
+</script>
+
+<body>
+
+<img src="a.jpg" id="i" width="100"><br>
+
+<h3 id="t">Old Image</h3>
+
+<button onclick="change()">Change</button>
+
+</body>
+</html>
+
+src → image source
+innerHTML → change text
+DOM → webpage control

@@ -1,0 +1,12 @@
+<?php
+
+echo "Name: Amit<br>";
+
+echo $_SERVER['REMOTE_ADDR']."<br>";
+
+echo $_SERVER['HTTP_USER_AGENT'];
+
+?>
+
+REMOTE_ADDR → IP address
+HTTP_USER_AGENT → browser info

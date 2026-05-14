@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<script>
+function si()
+{
+r.innerHTML=(+p.value*+t.value*+r1.value)/100;
+}
+
+function per()
+{
+r.innerHTML=(+m.value/500)*100;
+}
+</script>
+
+<body>
+
+<input id="p" placeholder="Principal">
+<input id="t" placeholder="Time">
+<input id="r1" placeholder="Rate"><br><br>
+
+<button onclick="si()">SI</button>
+
+<input id="m" placeholder="Marks">
+
+<button onclick="per()">%</button>
+
+<h3 id="r"></h3>
+
+</body>
+</html>
+
+function → code block
++value → number conversion

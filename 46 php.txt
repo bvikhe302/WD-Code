@@ -1,0 +1,20 @@
+<form method="post">
+
+<input name="n">
+
+<textarea name="f"></textarea>
+
+<input type="submit">
+
+</form>
+
+<?php
+
+echo "Name: ".$_POST['n']."<br>";
+
+echo "Feedback: ".$_POST['f'];
+
+?>
+
+textarea → feedback box
+$_POST → form data

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="a.css">
+
+<style>
+input{padding:5px;}
+p{color:red;}
+</style>
+
+</head>
+<body>
+
+<h2 style="color:blue">Register</h2>
+
+<input type="text"><br><br>
+
+<p>Invalid Password</p>
+
+</body>
+</html>
+
+inline CSS → inside tag
+internal CSS → style tag
+external CSS → css file

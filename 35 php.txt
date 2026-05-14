@@ -1,0 +1,15 @@
+<?php
+
+$s="Hello PHP";
+
+echo strrev($s)."<br>";
+
+echo strtoupper($s)."<br>";
+
+echo strtolower($s)."<br>";
+
+echo substr($s,0,5);
+
+?>
+strrev() → reverse
+substr() → substring

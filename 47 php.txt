@@ -1,0 +1,15 @@
+<?php
+
+$a=array(10,50,20);
+
+sort($a);
+
+print_r($a);
+
+echo max($a);
+
+?>
+
+sort() → sorting
+max() → maximum value
+print_r() → print array

@@ -1,0 +1,10 @@
+<?php
+
+echo "Customer: Amit<br>";
+
+echo date("d/m/y h:i:s");
+
+?>
+
+date() → current date/time
+echo → display output

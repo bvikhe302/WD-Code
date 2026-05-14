@@ -1,0 +1,13 @@
+<?php
+
+$n=121;
+
+echo strrev($n)."<br>";
+
+if($n==strrev($n))
+echo "Palindrome";
+
+?>
+
+palindrome → same reverse
+strrev() → reverse number

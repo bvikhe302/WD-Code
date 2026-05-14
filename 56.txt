@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<script>
+function circle()
+{
+r.innerHTML=3.14*c.value*c.value;
+}
+
+function rect()
+{
+r.innerHTML=l.value*b.value;
+}
+</script>
+
+<body>
+
+<input id="c" placeholder="Radius">
+
+<button onclick="circle()">Circle</button><br><br>
+
+<input id="l" placeholder="Length">
+<input id="b" placeholder="Breadth">
+
+<button onclick="rect()">Rectangle</button>
+
+<h3 id="r"></h3>
+
+</body>
+</html>
+
+function → code block
+onclick → click event

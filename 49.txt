@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Mahabaleshwar</h1>
+
+<img src="a.jpg" width="100">
+
+<p>Beautiful hill station.</p>
+
+<ul>
+<li>Boating</li>
+<li>Nature</li>
+</ul>
+
+</body>
+</html>
+
+<ul> → unordered list
+<img> → image

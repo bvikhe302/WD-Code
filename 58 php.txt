@@ -1,0 +1,16 @@
+<form method="post">
+
+<input name="n">
+
+<input type="submit">
+
+</form>
+
+<?php
+
+echo "Registration Successful ".$_POST['n'];
+
+?>
+
+POST → send form data
+$_POST → receive data
