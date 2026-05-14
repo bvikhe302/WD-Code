@@ -1,0 +1,60 @@
+1. Create an HTML page to display a student resume using headings, paragraphs, and lists.
+2. Design a web page containing an image gallery, hyperlinks to social media pages, and a timetable using tables.
+3. Create an online feedback form with fields for username, phone number, course selection, comments, and submit button.
+4. Apply CSS styles using internal, external, and inline methods to design a navigation menu and styled buttons.
+5. Develop a responsive college website homepage using Bootstrap Navbar, Cards, and Grid System.
+6. Write a JavaScript program to validate a registration form including password length, mobile number, and required fields.
+7. Create a web page that changes background color and text dynamically using JavaScript DOM events.
+8. Write a JavaScript program to perform arithmetic operations using buttons and functions for a mini calculator.
+9. Design a PHP script to display employee details and current server information.
+10. Write a PHP program to accept login credentials using POST method and display a successful login message.
+11. Implement a PHP program for string operations such as uppercase conversion, lowercase conversion, and word count.
+12. Create a PHP script to store student marks in an associative array and display them in tabular format.
+13. Create an HTML page to display details of a tourist place using headings, images, and formatted text.
+14. Design a web page containing a nested list, hyperlinks to educational websites, and a table showing class schedules.
+15. Create a job application form with fields for applicant name, qualification, experience, skills, and submit button.
+16. Apply CSS to design a webpage with styled forms, hover effects on buttons, and customized fonts.
+17. Develop a responsive portfolio webpage using Bootstrap Navbar, Grid Layout, and Progress Bars.
+18. Write a JavaScript program to validate a signup form including password confirmation and age verification.
+19. Create a web page that uses JavaScript DOM methods to add and remove list items dynamically.
+20. Write a JavaScript program to generate a multiplication table for a given number using functions.
+21. Design a PHP script to display a greeting message based on the current time (morning, afternoon, evening).
+22. Write a PHP program to accept student registration details through a form and display them using the POST method.
+23. Implement a PHP program to replace words in a string, find word positions, and trim spaces.
+24. Create a PHP script to store and display customer details using multidimensional arrays.
+25. Create an HTML page to display a student profile including photo, educational details, and hobbies using tables and formatting tags.
+26. Design a web page that contains an image gallery, hyperlinks to different websites, and a nested table for timetable details.
+27. Create a registration form with fields for name, email, password, gender, city selection, hobbies, and submit/reset buttons.
+28. Apply internal, external, and inline CSS to style a webpage with navigation menu, tables, and hover effects on buttons.
+29. Develop a responsive webpage using Bootstrap Grid System, Cards, Navbar, and Footer components.
+30. Write a JavaScript program to validate a form for empty fields, password length, and proper email format.
+31. Create a web page that dynamically changes images and text using JavaScript DOM manipulation.
+32. Write a JavaScript program to perform calculator operations (+, −, ×, ÷) using functions and switch-case statements.
+33. Design a PHP script to display a welcome message, current date/time, and browser information.
+34. Write a PHP program to accept student details through a form using POST method and display the entered information in table format.
+35. Implement a PHP program to perform string operations such as reverse, uppercase conversion, lowercase conversion, and substring extraction.
+36. Create a PHP script to store student marks in an associative array and calculate total marks and average.
+37. Create an HTML page to display faculty profile information using headings, images, paragraphs, and lists.
+38. Design a web page containing product images, hyperlinks to e-commerce websites, and a product price table.
+39. Create an online student admission form with fields for student name, email address, gender, branch selection, hobbies, and submit button.
+40. Apply CSS styles using inline, internal, and external CSS to create a styled login form and footer section.
+41. Develop a responsive hospital website homepage using Bootstrap Carousel, Cards, and Grid System.
+42. Write a JavaScript program to validate a student login form including email format, password confirmation, and empty field checking.
+43. Create a web page that changes font size, text color, and image dynamically using JavaScript DOM manipulation.
+44. Write a JavaScript program to calculate simple interest, compound interest, and percentage using buttons and functions.
+45. Design a PHP script to display student information and browser details using predefined server variables.
+46. Write a PHP program to accept user feedback using POST method and display the entered details in formatted output.
+47. Implement a PHP program for array operations such as sorting, searching, and finding maximum value.
+48. Create a PHP script to store product names and prices in an associative array and display them in tabular format.
+49. Create an HTML page to display a tourist place description using headings, paragraphs, images, and unordered lists.
+50. Design a web page containing a photo gallery, hyperlinks to educational websites, and a weekly class schedule using tables.
+51. Create an online job application form with fields for applicant name, email, mobile number, qualification, experience, and submit button.
+52. Apply CSS styles using inline, internal, and external methods to design a registration form and styled alert messages.
+53. Develop a responsive restaurant website homepage using Bootstrap Navbar, Carousel, Cards, and Grid Layout.
+54. Write a JavaScript program to validate a feedback form including email validation, comment length, and mandatory field checking.
+55. Create a web page that changes text style, image size, and background color dynamically using JavaScript events.
+56. Write a JavaScript program to perform area calculations of circle, rectangle, and triangle using functions and buttons.
+57. Design a PHP script to display customer details and current date/time information from the server.
+58. Write a PHP program to accept student registration details using POST method and display registration success message.
+59. Implement a PHP program for numeric operations such as finding factorial, palindrome number, and reverse number.
+60. Create a PHP script to store book names and authors in an associative array and display them in table format.
