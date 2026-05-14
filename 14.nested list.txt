@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Education Page</title>
+</head>
+
+<body>
+
+<h2>Subjects List</h2>
+
+<ul>
+  <li>Science
+    <ul>
+      <li>Physics</li>
+      <li>Chemistry</li>
+    </ul>
+  </li>
+
+  <li>Computer
+    <ul>
+      <li>HTML</li>
+      <li>JavaScript</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Educational Websites</h2>
+
+<a href="https://www.w3schools.com" target="_blank">W3Schools</a><br>
+<a href="https://www.geeksforgeeks.org" target="_blank">GeeksforGeeks</a>
+
+<h2>Class Schedule</h2>
+
+<table border="1" cellpadding="5">
+  <tr>
+    <th>Day</th>
+    <th>Subject</th>
+    <th>Time</th>
+  </tr>
+
+  <tr>
+    <td>Monday</td>
+    <td>HTML</td>
+    <td>10 AM</td>
+  </tr>
+
+  <tr>
+    <td>Tuesday</td>
+    <td>JavaScript</td>
+    <td>11 AM</td>
+  </tr>
+
+</table>
+
+</body>
+</html>

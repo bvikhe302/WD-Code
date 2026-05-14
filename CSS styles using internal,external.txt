@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Example</title>
+
+  <!-- Internal CSS -->
+  <style>
+    ul {
+      list-style: none;
+      background: black;
+      padding: 10px;
+    }
+
+    li {
+      display: inline;
+      margin: 10px;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+
+    .btn {
+      background: blue;
+      color: white;
+      padding: 8px 15px;
+      border: none;
+    }
+  </style>
+
+  <!-- External CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navigation Menu -->
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+
+  <!-- Inline CSS -->
+  <h2 style="color:red;">Styled Buttons</h2>
+
+  <button class="btn">Login</button>
+  <button class="btn">Register</button>
+
+</body>
+</html>

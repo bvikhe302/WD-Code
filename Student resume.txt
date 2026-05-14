@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Resume</title>
+</head>
+<body>
+
+    <h1>John Doe</h1>
+    <p>Email: john@example.com</p>
+    <p>Phone: 9876543210</p>
+
+    <h2>Career Objective</h2>
+    <p>To obtain a challenging position and improve my skills.</p>
+
+    <h2>Education</h2>
+    <ul>
+        <li>B.Sc Computer Science - XYZ College</li>
+        <li>HSC - ABC School</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Python</li>
+    </ul>
+
+</body>
+</html>

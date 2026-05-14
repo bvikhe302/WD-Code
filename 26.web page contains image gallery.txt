@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Web Page</title>
+</head>
+
+<body>
+
+<h2 align="center">IMAGE GALLERY</h2>
+
+<img src="img1.jpg" height="100" width="100">
+<img src="img2.jpg" height="100" width="100">
+<img src="img3.jpg" height="100" width="100">
+
+<h2>Useful Links</h2>
+
+<a href="https://www.google.com">Google</a><br>
+<a href="https://www.youtube.com">YouTube</a><br>
+<a href="https://www.wikipedia.org">Wikipedia</a>
+
+<h2>Time Table</h2>
+
+<table border="1" cellpadding="10">
+
+<tr>
+<th>Day</th>
+<th>Schedule</th>
+</tr>
+
+<tr>
+<td>Monday</td>
+
+<td>
+    <table border="1">
+        <tr>
+            <th>Time</th>
+            <th>Subject</th>
+        </tr>
+
+        <tr>
+            <td>10-11</td>
+            <td>HTML</td>
+        </tr>
+
+        <tr>
+            <td>11-12</td>
+            <td>CSS</td>
+        </tr>
+    </table>
+</td>
+
+</tr>
+
+</table>
+
+</body>
+</html>

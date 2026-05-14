@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Job Application Form</h2>
+
+<form>
+  Name: <input type="text"><br><br>
+
+  Qualification: <input type="text"><br><br>
+
+  Experience: <input type="number"><br><br>
+
+  Skills: <input type="text"><br><br>
+
+  <input type="submit" value="Apply">
+</form>
+
+</body>
+</html>

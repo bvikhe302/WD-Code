@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Gallery & Timetable</title>
+</head>
+<body>
+
+    <h1>My Web Page</h1>
+
+    <!-- Image Gallery -->
+    <h2>Image Gallery</h2>
+    <img src="https://via.placeholder.com/150" alt="Image 1">
+    <img src="https://via.placeholder.com/150" alt="Image 2">
+    <img src="https://via.placeholder.com/150" alt="Image 3">
+
+    <!-- Social Media Links -->
+    <h2>Social Media</h2>
+    <p>
+        <a href="https://www.facebook.com" target="_blank">Facebook</a> |
+        <a href="https://www.instagram.com" target="_blank">Instagram</a> |
+        <a href="https://www.twitter.com" target="_blank">Twitter</a>
+    </p>
+
+    <!-- Timetable -->
+    <h2>Class Timetable</h2>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Day</th>
+            <th>Subject</th>
+            <th>Time</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>HTML</td>
+            <td>10 AM - 11 AM</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>CSS</td>
+            <td>11 AM - 12 PM</td>
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>JavaScript</td>
+            <td>12 PM - 1 PM</td>
+        </tr>
+    </table>
+
+</body>
+</html>

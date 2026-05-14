@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+</head>
+<body>
+
+    <center>
+        <h1><u>STUDENT PROFILE</u></h1>
+    </center>
+
+    <table border="1" cellpadding="10" width="60%" align="center">
+        
+        <tr>
+            <td rowspan="4" align="center">
+                <img src="student.jpg" width="120" height="120">
+            </td>
+            <th>Name</th>
+            <td>Rahul Sharma</td>
+        </tr>
+
+        <tr>
+            <th>Class</th>
+            <td>B.Sc IT</td>
+        </tr>
+
+        <tr>
+            <th>College</th>
+            <td>XYZ College</td>
+        </tr>
+
+        <tr>
+            <th>Email</th>
+            <td>rahul@gmail.com</td>
+        </tr>
+
+    </table>
+
+    <br>
+
+    <table border="1" cellpadding="10" width="60%" align="center">
+
+        <tr bgcolor="lightgray">
+            <th colspan="2">Educational Details</th>
+        </tr>
+
+        <tr>
+            <th>Qualification</th>
+            <th>Percentage</th>
+        </tr>
+
+        <tr>
+            <td>10th</td>
+            <td>85%</td>
+        </tr>
+
+        <tr>
+            <td>12th</td>
+            <td>80%</td>
+        </tr>
+
+        <tr>
+            <td>Graduation</td>
+            <td>75%</td>
+        </tr>
+
+    </table>
+
+    <br>
+
+    <table border="1" cellpadding="10" width="60%" align="center">
+
+        <tr bgcolor="lightgray">
+            <th>Hobbies</th>
+        </tr>
+
+        <tr>
+            <td>
+                <ul>
+                    <li>Reading Books</li>
+                    <li>Playing Cricket</li>
+                    <li>Music</li>
+                </ul>
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>

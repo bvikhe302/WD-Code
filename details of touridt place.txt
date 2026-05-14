@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tourist Place</title>
+</head>
+
+<body>
+
+<h1 align="center">Gateway of India</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Gateway_of_India.jpg"
+     width="400" height="250">
+
+<p>
+  <b>Gateway of India</b> is one of the most famous tourist places in 
+  <i>Mumbai</i>. It was built in <u>1924</u> and attracts thousands of visitors.
+</p>
+
+<h3>Features:</h3>
+<ul>
+  <li>Beautiful Architecture</li>
+  <li>Sea View</li>
+  <li>Historical Monument</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?php
+
+$customers = [
+  ["id"=>1, "name"=>"Rahul", "city"=>"Mumbai"],
+  ["id"=>2, "name"=>"Priya", "city"=>"Pune"]
+];
+
+echo "<table border='1' cellpadding='5'>
+<tr>
+  <th>ID</th>
+  <th>Name</th>
+  <th>City</th>
+</tr>";
+
+foreach($customers as $c){
+  echo "<tr>
+          <td>".$c['id']."</td>
+          <td>".$c['name']."</td>
+          <td>".$c['city']."</td>
+        </tr>";
+}
+
+echo "</table>";
+
+?>

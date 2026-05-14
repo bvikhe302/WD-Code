@@ -1,0 +1,13 @@
+<?php
+
+$str = "Welcome To PHP Programming";
+
+echo "Original String: " . $str . "<br><br>";
+
+echo "Uppercase: " . strtoupper($str) . "<br><br>";
+
+echo "Lowercase: " . strtolower($str) . "<br><br>";
+
+echo "Word Count: " . str_word_count($str);
+
+?>

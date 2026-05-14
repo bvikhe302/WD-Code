@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<input type="number" id="num" placeholder="Enter Number">
+
+<button onclick="table()">Show Table</button>
+
+<p id="result"></p>
+
+<script>
+function table() {
+  let n = num.value;
+  let output = "";
+
+  for(let i=1; i<=10; i++){
+    output += n + " x " + i + " = " + (n*i) + "<br>";
+  }
+
+  result.innerHTML = output;
+}
+</script>
+
+</body>
+</html>

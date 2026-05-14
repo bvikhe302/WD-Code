@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body style="text-align:center;">
+
+<h2>Mini Calculator</h2>
+
+<input type="number" id="a" placeholder="First Number">
+<input type="number" id="b" placeholder="Second Number">
+
+<br><br>
+
+<button onclick="calc('+')">+</button>
+<button onclick="calc('-')">-</button>
+<button onclick="calc('*')">*</button>
+<button onclick="calc('/')">/</button>
+
+<h3 id="result"></h3>
+
+<script>
+function calc(op) {
+  let a = Number(document.getElementById("a").value);
+  let b = Number(document.getElementById("b").value);
+  let ans;
+
+  if(op=='+') ans = a + b;
+  if(op=='-') ans = a - b;
+  if(op=='*') ans = a * b;
+  if(op=='/') ans = a / b;
+
+  document.getElementById("result").innerHTML = "Result = " + ans;
+}
+</script>
+
+</body>
+</html>

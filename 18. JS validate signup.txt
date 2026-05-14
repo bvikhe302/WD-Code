@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form onsubmit="return validate()">
+  Age: <input type="number" id="age"><br><br>
+
+  Password: <input type="password" id="p1"><br><br>
+
+  Confirm Password: <input type="password" id="p2"><br><br>
+
+  <input type="submit" value="Signup">
+</form>
+
+<script>
+function validate() {
+
+  if(age.value < 18){
+    alert("Age must be 18+");
+    return false;
+  }
+
+  if(p1.value != p2.value){
+    alert("Passwords do not match");
+    return false;
+  }
+
+  alert("Signup Successful");
+}
+</script>
+
+</body>
+</html>

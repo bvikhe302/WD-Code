@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<input type="text" id="item" placeholder="Enter item">
+
+<button onclick="addItem()">Add</button>
+<button onclick="removeItem()">Remove</button>
+
+<ul id="list"></ul>
+
+<script>
+function addItem() {
+  let li = document.createElement("li");
+  li.innerHTML = item.value;
+  list.appendChild(li);
+}
+
+function removeItem() {
+  list.removeChild(list.lastElementChild);
+}
+</script>
+
+</body>
+</html>
